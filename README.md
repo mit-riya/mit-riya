@@ -43,6 +43,8 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Firebase_icon.svg" alt="Firebase" width="50" height="50">
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mit-riya&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mit-riya&layout=compact)
 
 
 
