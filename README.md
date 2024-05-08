@@ -1,4 +1,13 @@
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrwqW5wLakmadcU1ReR6kjyE3M2XeJp07VOASwPFq9A&s" alt="Coding GIF">
+</p>
+
 <h2 align="center"><b>Hi 👋, I am Riya Mittal</b></h2>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=mit-riya" alt="Profile Views" />
+</p>
+
 
 <!--
 **mit-riya/mit-riya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,12 +23,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 - 🔭 I’m currently working on Deep Learning and Web Development
 - 🌱 I’m currently learning Blockchain and Quantitative Finance
 - 📫 How to reach me: riyamittal1604@gmail.com or m.riya@iitg.ac.in
 - ⚡ Fun fact: I love reading books and playing badminton in my free time
-
-![Profile Views](https://komarev.com/ghpvc/?username=mit-riya)
 
 
 ### Connect with me
