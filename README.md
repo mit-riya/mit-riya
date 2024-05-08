@@ -58,8 +58,10 @@ Here are some ideas to get you started:
 </div>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mit-riya&show_icons=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mit-riya&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mit-riya&show_icons=true)
+
 
 
 
