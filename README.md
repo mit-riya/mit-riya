@@ -55,6 +55,7 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Flutter_logo.svg" alt="Flutter" width="50" height="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Firebase_icon.svg" alt="Firebase" width="50" height="50">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0N5-y7L3D14MUqurJqW9Cg62r36Hfe8sym-3Ec7vSvA&s" alt="Solidity" width="50" height="50">
 </div>
 
 
